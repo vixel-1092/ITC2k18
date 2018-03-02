@@ -126,11 +126,11 @@ p.lead {
     font-size   : 22px;
     line-height : 1.7em;
     font-weight: 500;
-    
+    color : #ffffff 
     }
-p.robo {
+/*p.robo {
 	color : white !important;
-}
+}*/
 
 ul {
     margin     : 0;
