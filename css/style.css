@@ -126,11 +126,8 @@ p.lead {
     font-size   : 22px;
     line-height : 1.7em;
     font-weight: 500;
-    color : #ffffff 
+    
     }
-/*p.robo {
-	color : white !important;
-}*/
 
 ul {
     margin     : 0;
@@ -148,8 +145,7 @@ ul {
     border-width   : 2px;
     text-transform : uppercase;
     }
-.robo {
-	color : white important;
+
 .btn-lg {
     font-size : 25px;
     padding   : 15px 30px
